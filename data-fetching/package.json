@@ -10,6 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@lttr/nuxt-config-postcss": "^0.0.8",
+    "@lttr/nuxt-puleo": "0.0.7",
+    "@lttr/puleo": "^0.5.0",
     "nuxt": "^4.0.1",
     "vue": "^3.5.18",
     "vue-router": "^4.5.1"
